@@ -1,0 +1,6 @@
+@SurpassIntegration_HostAddress = http://localhost:5268
+
+GET {{SurpassIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

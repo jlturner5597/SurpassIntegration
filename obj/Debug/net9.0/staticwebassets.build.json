@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mFwoavYIkeMAWmShgavbQ7W7Z0+6PbIPAjPu1xlCFlw=",
+  "Source": "SurpassIntegration",
+  "BasePath": "_content/SurpassIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
