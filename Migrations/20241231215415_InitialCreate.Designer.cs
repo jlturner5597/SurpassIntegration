@@ -11,7 +11,7 @@ using SurpassIntegration.Data;
 namespace SurpassIntegration.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241231185329_InitialCreate")]
+    [Migration("20241231215415_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

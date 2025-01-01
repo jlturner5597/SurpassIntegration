@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JohnT\\SOLS\\SurpassIntegration\\SurpassIntegration.csproj": {}
+    "C:\\Users\\jltur\\Github\\SurpassIntegration\\SurpassIntegration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JohnT\\SOLS\\SurpassIntegration\\SurpassIntegration.csproj": {
+    "C:\\Users\\jltur\\Github\\SurpassIntegration\\SurpassIntegration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JohnT\\SOLS\\SurpassIntegration\\SurpassIntegration.csproj",
+        "projectUniqueName": "C:\\Users\\jltur\\Github\\SurpassIntegration\\SurpassIntegration.csproj",
         "projectName": "SurpassIntegration",
-        "projectPath": "C:\\Users\\JohnT\\SOLS\\SurpassIntegration\\SurpassIntegration.csproj",
-        "packagesPath": "C:\\Users\\JohnT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JohnT\\SOLS\\SurpassIntegration\\obj\\",
+        "projectPath": "C:\\Users\\jltur\\Github\\SurpassIntegration\\SurpassIntegration.csproj",
+        "packagesPath": "C:\\Users\\jltur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jltur\\Github\\SurpassIntegration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JohnT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jltur\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

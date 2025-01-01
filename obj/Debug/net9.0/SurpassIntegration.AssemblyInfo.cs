@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SurpassIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b8e3dcc080f32d15b78a39005a3c306b90a676")]
 [assembly: System.Reflection.AssemblyProductAttribute("SurpassIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SurpassIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
